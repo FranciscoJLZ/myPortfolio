@@ -1,6 +1,6 @@
 # myPortfolio
 
-Este repositorio contiene un pequeño proyecto, el cual empleó TypeScript, particularmente el campo de POO (programación orientada a objetos). Está pensado para la base de datos de una red de veterinarias, la cual lleva el nombre de TotalFreshVet, para mas informacion contactarse a mi gmail privado: franciscozuasnabar20@gmail.com
+Este repositorio contiene un pequeño proyecto, el cual empleó TypeScript, particularmente el campo de POO (programación orientada a objetos). Está pensado para la base de datos de una red de veterinarias, la cual lleva el nombre de VeterinaFresh, para mas informacion contactarse a mi gmail privado: franciscozuasnabar20@gmail.com
 
 Pasos a seguir para ejercutar este programa:
 
@@ -14,7 +14,7 @@ Pasos a seguir para ejercutar este programa:
 6) Ejecutar el comando: npm run dev
 7) Testear el código a gusto del usuario
 // English
-This repository contains a small project that uses TypeScript, particularly the field of OOP (Object-Oriented Programming). It is designed for the database of a veterinary network called TotalFreshVet. For more information, contact my private Gmail: franciscozuasnabar20@gmail.com
+This repository contains a small project that uses TypeScript, particularly the field of OOP (Object-Oriented Programming). It is designed for the database of a veterinary network called VetFresh. For more information, contact my private Gmail: franciscozuasnabar20@gmail.com
 
 Steps to follow to run this program:
 
